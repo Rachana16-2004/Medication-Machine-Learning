@@ -56,16 +56,7 @@ pip install flask pandas numpy scikit-learn
 
 # If using app.py
 python app.py
-
-# OR if using main.p
-python main.p
-Then open your browser and go to:
-
-http://127.0.0.1:5000/
-🧠 How It Works
-User enters symptoms (e.g., fatigue, headache, vomiting)
-
-The app:
+### The app:
 Converts symptoms to a binary feature vector using symptoms_dict
 Uses the pre-trained SVC model (svc.pkl) to predict the disease
 Relevant information is retrieved:
@@ -96,6 +87,7 @@ Mobile app integration using REST API
 Dynamic symptom suggestions using autocomplete
 Improve UI/UX with animations or design libraries
 
-**Application Interface Preview:**
+### Application Interface Preview:
 ![My Logo](https://github.com/Rachana16-2004/Medication-Machine-Learning/blob/main/Screenshot%202025-07-11%20183757.png?raw=true)
+
 ![My Logo](https://github.com/Rachana16-2004/Medication-Machine-Learning/blob/main/Screenshot%202025-07-10%20132943.png?raw=true)
