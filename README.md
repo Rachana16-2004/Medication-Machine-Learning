@@ -96,4 +96,4 @@ Mobile app integration using REST API
 Dynamic symptom suggestions using autocomplete
 Improve UI/UX with animations or design libraries
 
-![My Logo](assets/my-logo.png)
+![My Logo](https://github.com/Rachana16-2004/Medication-Machine-Learning/blob/main/Screenshot%202025-07-11%20183757.png?raw=true)
