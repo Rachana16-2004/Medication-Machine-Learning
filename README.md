@@ -76,7 +76,7 @@ Diet from diets.csv
 Workouts from workout_df.csv
 Output is displayed on the same page.
 
-🔮 Example Input
+🔮 **Example Input**
 Symptoms: fatigue, headache, vomiting
 Predicted Disease: Migraine
 Suggestions:
@@ -89,7 +89,7 @@ Workout: Light yoga/stretching
 📸 Screenshots
 (Optional: Add screenshots of your UI here)
 
-📈 Future Improvements
+**📈 Future Improvements**
 Add chatbot or teleconsultation feature
 Add confidence score from the model
 Mobile app integration using REST API
@@ -98,4 +98,4 @@ Improve UI/UX with animations or design libraries
 
 **Application Interface Preview:**
 ![My Logo](https://github.com/Rachana16-2004/Medication-Machine-Learning/blob/main/Screenshot%202025-07-11%20183757.png?raw=true)
-![My Logo]()
+![My Logo](https://github.com/Rachana16-2004/Medication-Machine-Learning/blob/main/Screenshot%202025-07-10%20132943.png?raw=true)
