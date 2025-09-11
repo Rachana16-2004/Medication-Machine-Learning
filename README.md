@@ -9,7 +9,7 @@ This project is a smart healthcare web/mobile application that uses **Machine Le
 - 💊 Suggest medications, diets, and workout plans
 - 🔐 Built-in support for multiple datasets including symptom severity and disease descriptions
 - 👨‍⚕️ Future enhancement: contact a doctor or consult a chatbot
-- 📊 Easy-to-understand results on the same web page
+- 📊 Easy-to-understand results on the same web page 
 
 ## 🗂 Project Directory Structure
 
