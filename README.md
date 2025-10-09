@@ -6,7 +6,7 @@ This project is a smart healthcare web/mobile application that uses **Machine Le
  
 - 🤒 Input symptoms through a simple text form (comma-separated) 
 - 🧬 Predict diseases using a pre-trained Support Vector Classifier (SVC) 
-- 💊 Suggest medications, diets, and workout plans
+- 💊 Suggest medications, diets, and workout plans 
 - 🔐 Built-in support for multiple datasets including symptom severity and disease descriptions
 - 👨‍⚕️ Future enhancement: contact a doctor or consult a chatbot
 - 📊 Easy-to-understand results on the same web page 
