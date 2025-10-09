@@ -3,7 +3,7 @@
 This project is a smart healthcare web/mobile application that uses **Machine Learning** to predict possible diseases based on user-inputted **symptoms**, and recommends relevant **medications**.This is a smart healthcare web application that uses a Machine Learning model to predict the most probable disease based on user-inputted symptoms and provides relevant healthcare suggestions including medications, diets, and precautions.
   
 ## 🌟 Features   
- 
+  
 - 🤒 Input symptoms through a simple text form (comma-separated) 
 - 🧬 Predict diseases using a pre-trained Support Vector Classifier (SVC)  
 - 💊 Suggest medications, diets, and workout plans 
